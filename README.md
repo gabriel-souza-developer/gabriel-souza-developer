@@ -1,10 +1,8 @@
-# Hi there 👋
-<!-- **gabrieldev071/gabrieldev071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-![Gabriel Souza](https://readme-typing-svg.herokuapp.com/?font=Inter&color=3A9CDF&size=30&weight=700&lines=Gabriel+Souza;)
+Hi 👋 My name is ![Gabriel Souza](https://readme-typing-svg.herokuapp.com/?font=Inter&color=3A9CDF&size=30&weight=700&lines=Gabriel+Souza;)
 
 ## 🎓 I'm Gabriel Souza Web Design & Developer!
+-----------------------------------------------
+<p>I'm 20 years old, I was born in Campina Grande - PB and I currently work in the customer service area at Necxt Orbitall. Since I was a child, I have always had a nostalgia and passion for technology, and my dream has always been to pursue a career in this field. At the moment, I am in the process of career transition and started my higher education course in Systems Analysis and Development. My goal is to become a full stack developer and I've already started my journey as a front-end dev and I'm committed to achieving that goal.</p>
 
 - 🌍 I'm based in Campina Grande, Brazil
 - ✍ You can find my projects here [portfolio](https://gabrieldev071.github.io/portifolio/)
@@ -33,10 +31,6 @@ src="https://img.shields.io/github/followers/gabrieldev071?logo=github&style=for
 <img src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif" align="center" width="100%">
 </div>
 
-## Description
-
-<!-- [![Travis CI](https://travis-ci.org/pantheon-systems/wp-redis.svg?branch=master)](https://travis-ci.org/pantheon-systems/wp-redis) [![CircleCI](https://circleci.com/gh/pantheon-systems/wp-redis/tree/master.svg?style=svg)](https://circleci.com/gh/pantheon-systems/wp-redis/tree/master)
-
 ### You can contact me at:
 
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />][linkedin]
@@ -45,7 +39,7 @@ src="https://img.shields.io/github/followers/gabrieldev071?logo=github&style=for
 
 <br/>
 
-### Languages and Tools:
+<-- ### Languages and Tools:
 
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
@@ -164,6 +158,7 @@ src="https://img.shields.io/github/followers/gabrieldev071?logo=github&style=for
         <img src="https://img.shields.io/github/followers/JubayerRiyad?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
+
 
 <p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: JubayerRiyad Visitor's Count" /></p>
 
