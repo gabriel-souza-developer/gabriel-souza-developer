@@ -1,9 +1,6 @@
 # Hi 👋 My name is 
-
 ![Gabriel Souza](https://readme-typing-svg.herokuapp.com/?font=Inter&color=3A9CDF&size=30&weight=700&lines=Gabriel+Souza;)
-
 ## 🎓 I'm Gabriel Souza Web Design & Developer!
-
 -----------------------------------------------
 <p> I'm 20 years old, I was born in Campina Grande - PB and I currently work in the customer service area at Necxt Orbitall. Since I was a child, I have always had a nostalgia and passion for technology, and my dream has always been to pursue a career in this field. At the moment, I am in the process of career transition and started my higher education course in Systems Analysis and Development. My goal is to become a full stack developer and I've already started my journey as a front-end dev and I'm committed to achieving that goal.</p>
 
@@ -148,31 +145,15 @@
 
 </table>
 
-<br/>
+## ![Top Languages by Repostory](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrieldev071&theme=github_dark)
 
-![Top Languages by Repostory](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrieldev071&theme=github_dark)
 
-<br/>
-<br/>
-
-## :trophy: Gabriel Souza Github Stats:
+## :trophy:Github Stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieldev071&theme=github_dark)
 
-<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
 
-<p align="center">
-    
-<a href="https://github.com/JubayerRiyad/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=JubayerRiyad">
-</a>
-    <a href="https://github.com/JubayerRiyad?tab=followers">
-        <img src="https://img.shields.io/github/followers/JubayerRiyad?label=Followers&style=social" alt="GitHub Badge">
-    </a>
-</p>
-
-
-<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: JubayerRiyad Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: Gabriel Souza Visitor's Count" /></p>
 
 [linkedin]: https://www.linkedin.com/in/gabriel-albuquerque-souza-desenvolvedor/
 [twitter]: https://www.whitter.com/JubayerRiyad/
