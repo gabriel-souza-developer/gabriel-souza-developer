@@ -1,19 +1,22 @@
 ### Hi there 👋
+<!-- **gabrieldev071/gabrieldev071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!--
-**gabrieldev071/gabrieldev071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started: -->
 
-Here are some ideas to get you started:
+## 🎓 I'm Gabriel Souza Web Design & Developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🌍 I'm based in Campina Grande, Brazil
+- ✍ You can find my projects here [portfolio](https://gabrieldev071.github.io/portifolio/)
+- 🧠 I'm learning Advanced Javascript, React, CSS, SASS, HTML, Bootstrap, GIT and MySQL.
+- 🎓 I'm studying Systems Analysis and Development
+- 🔭 I’m currently ooking for my first opportunity
+- 👯 I'm open to collaborating on projects that have a high impact in peoples lives
+- 💬 Ask me about ... Anything
+- ✉️ You can contact me at [contato_gabriel_albuquerque@hotmail.com](mailto:contato_gabriel_albuquerque@hotmail.com)
+- 😄 Pronouns: Him/His
 - ⚡ Fun fact: ...
--->
+<a href="https://www.github.com/gabrieldev071" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 <!-- ### Skills:
 
