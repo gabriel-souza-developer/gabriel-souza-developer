@@ -15,17 +15,17 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about ... Anything
 - ✉️ You can contact me at [contato_gabriel_albuquerque@hotmail.com](mailto:contato_gabriel_albuquerque@hotmail.com)
 - 😄 Pronouns: Him/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love camping, adventure and nature
 
   
 <a href="https://www.github.com/gabrieldev071" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/gabrieldev071?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
-<!-- ### Skills:
+### Skills:
 
-- HTML, CSS, JavaScript, React & Bootstrap
-- PHP & mySQL (PHP Frameworks)
-- E-Commerce
+- HTML, CSS, SASS, JavaScript, React and Bootstrap
+- Node JS
+- MySQL
 
 <br/>
 
@@ -35,7 +35,7 @@ src="https://img.shields.io/github/followers/gabrieldev071?logo=github&style=for
 
 ## Description
 
-[![Travis CI](https://travis-ci.org/pantheon-systems/wp-redis.svg?branch=master)](https://travis-ci.org/pantheon-systems/wp-redis) [![CircleCI](https://circleci.com/gh/pantheon-systems/wp-redis/tree/master.svg?style=svg)](https://circleci.com/gh/pantheon-systems/wp-redis/tree/master)
+<!-- [![Travis CI](https://travis-ci.org/pantheon-systems/wp-redis.svg?branch=master)](https://travis-ci.org/pantheon-systems/wp-redis) [![CircleCI](https://circleci.com/gh/pantheon-systems/wp-redis/tree/master.svg?style=svg)](https://circleci.com/gh/pantheon-systems/wp-redis/tree/master)
 
 ### You can contact me at:
 
