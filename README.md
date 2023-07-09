@@ -1,8 +1,12 @@
-# Hi 👋 My name is ![Gabriel Souza](https://readme-typing-svg.herokuapp.com/?font=Inter&color=3A9CDF&size=30&weight=700&lines=Gabriel+Souza;)
+# Hi 👋 My name is 
+
+![Gabriel Souza](https://readme-typing-svg.herokuapp.com/?font=Inter&color=3A9CDF&size=30&weight=700&lines=Gabriel+Souza;)
 
 ## 🎓 I'm Gabriel Souza Web Design & Developer!
+
 -----------------------------------------------
-<p>I'm 20 years old, I was born in Campina Grande - PB and I currently work in the customer service area at Necxt Orbitall. Since I was a child, I have always had a nostalgia and passion for technology, and my dream has always been to pursue a career in this field. At the moment, I am in the process of career transition and started my higher education course in Systems Analysis and Development. My goal is to become a full stack developer and I've already started my journey as a front-end dev and I'm committed to achieving that goal.</p>
+<p> I'm 20 years old, I was born in Campina Grande - PB and I currently work in the customer service area at Necxt Orbitall. Since I was a child, I have always had a nostalgia and passion for technology, and my dream has always been to pursue a career in this field. At the moment, I am in the process of career transition and started my higher education course in Systems Analysis and Development. My goal is to become a full stack developer and I've already started my journey as a front-end dev and I'm committed to achieving that goal.</p>
+
 -----------------------------------------------
 - 🌍 I'm based in Campina Grande, Brazil
 - ✍ You can find my projects here [portfolio](https://gabrieldev071.github.io/portifolio/)
@@ -14,10 +18,6 @@
 - ✉️ You can contact me at [contato_gabriel_albuquerque@hotmail.com](mailto:contato_gabriel_albuquerque@hotmail.com)
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I love camping, adventure and nature
-
-  
-<a href="https://www.github.com/gabrieldev071" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/gabrieldev071?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills:
 
@@ -35,6 +35,7 @@ src="https://img.shields.io/github/followers/gabrieldev071?logo=github&style=for
 
 <a href="https://www.linkedin.com/in/gabriel-albuquerque-souza-desenvolvedor/" target="_blank" >![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:contato_gabriel_albuquerque@hotmail.com" target="_blank" >![GMAIL](https://img.shields.io/badge/GMAIL-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
 <br/>
 
@@ -46,7 +47,7 @@ src="https://img.shields.io/github/followers/gabrieldev071?logo=github&style=for
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
@@ -141,19 +142,15 @@ src="https://img.shields.io/github/followers/gabrieldev071?logo=github&style=for
 </table>
 
 <br/>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JubayerRiyad&show_icons=true&locale=en" alt="JubayerRiyad" width="300" />
-</p>
-<br/>
 
-[![JubayerRiyad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JubayerRiyad&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/JubayerRiyad/github-readme-activity-graph)
+![Top Languages by Repostory](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrieldev071&theme=github_dark)
 
 <br/>
 <br/>
 
-## :trophy: Jubayer Riyad Github Stats:
+## :trophy: Gabriel Souza Github Stats:
 
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JubayerRiyad&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieldev071&theme=github_dark)
 
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
 
