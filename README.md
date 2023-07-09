@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: ...
 <a href="https://www.github.com/gabrieldev071" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+src="https://img.shields.io/github/followers/gabrieldev071?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 <!-- ### Skills:
 
