@@ -3,6 +3,8 @@
 
 Here are some ideas to get you started: -->
 
+![Gabriel Souza](https://readme-typing-svg.herokuapp.com/?font=Inter&color=3A9CDF&size=30&weight=700&lines=Gabriel+Souza;)
+
 ## 🎓 I'm Gabriel Souza Web Design & Developer!
 
 - 🌍 I'm based in Campina Grande, Brazil
