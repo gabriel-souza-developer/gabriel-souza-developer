@@ -27,12 +27,12 @@
 <img src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif" align="center" width="100%">
 </div>
 
-### You can contact me at:
+## You can contact me at:
 <a href="https://www.linkedin.com/in/gabriel-albuquerque-souza-desenvolvedor/" target="_blank" >![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://github.com/gabrieldev071" target="_blank" >![github](https://img.shields.io/badge/github-212529.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://www.instagram.com/gabriell.dat/" target="_blank" >![instagram](https://img.shields.io/badge/instagram-D14836.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://discord.com/users/239197225287286785" target="_blank" >![discord](https://img.shields.io/badge/discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
-### Languages and Tools:
+## Languages and Tools:
 
 <p align="left"> 
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -49,7 +49,7 @@
 
 > Tools and technologies that I have worked with and am interested in
 
-<table align="left">
+<tbody align="">
 <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -99,8 +99,8 @@
         <br>MySQL
     </td>
  </tr>
-</table>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</tbody>
+
 <h2 align="left"> :trophy: Languages and Commit in GitHub: </h2>
 
 ![Top Languages by Repostory](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrieldev071&theme=github_dark) ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrieldev071&theme=github_dark)
