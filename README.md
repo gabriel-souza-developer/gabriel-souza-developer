@@ -7,7 +7,7 @@
 
 -----------------------------------------------
 - 🌍 I'm based in Campina Grande, Brazil
-- ✍ You can find my projects here [portfolio](https://gabrieldev071.github.io/portifolio/)
+- ✍ You can find my projects here [portfolio]
 - 🧠 I'm learning Advanced Javascript, React, CSS, SASS, HTML, Bootstrap, GIT and MySQL.
 - 🎓 I'm studying Systems Analysis and Development
 - 🔭 I’m currently ooking for my first opportunity
@@ -31,6 +31,7 @@
 <a href="https://www.linkedin.com/in/gabriel-albuquerque-souza-desenvolvedor/" target="_blank" >![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://github.com/gabrieldev071" target="_blank" >![github](https://img.shields.io/badge/github-212529.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://www.instagram.com/gabriell.dat/" target="_blank" >![instagram](https://img.shields.io/badge/instagram-D14836.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.instagram.com/gabriell.dat/" target="_blank" >![instagram](https://img.shields.io/badge/discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 ### Languages and Tools:
 
 <p align="left"> 
