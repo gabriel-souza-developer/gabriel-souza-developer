@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/gabriel-albuquerque-souza-desenvolvedor/" target="_blank" >![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://github.com/gabrieldev071" target="_blank" >![github](https://img.shields.io/badge/github-212529.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://www.instagram.com/gabriell.dat/" target="_blank" >![instagram](https://img.shields.io/badge/instagram-D14836.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="https://www.instagram.com/gabriell.dat/" target="_blank" >![instagram](https://img.shields.io/badge/discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href="https://discord.com/users/239197225287286785" target="_blank" >![discord](https://img.shields.io/badge/discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 ### Languages and Tools:
 
 <p align="left"> 
@@ -112,7 +112,7 @@
 
 ![gabrieldev071](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieldev071&theme=github_dark)
 
-<h2> align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes: </h2>
+<h2 align="center" ><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes: </h2>
 
 <p align="center">
     
@@ -124,7 +124,7 @@
     </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: gabrieldev071 Visitor's Count" />
+<p align="center"> <img src="https://profile-counter.glitch.me/gabrieldev071/count.svg"  alt="roland :: gabrieldev071 Visitor's Count" />
 </p> 
 
 [linkedin]: https://www.linkedin.com/in/gabriel-albuquerque-souza-desenvolvedor/
