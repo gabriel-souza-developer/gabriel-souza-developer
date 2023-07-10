@@ -1,9 +1,8 @@
 # Hi 👋 My name is 
 ![Gabriel Souza](https://readme-typing-svg.herokuapp.com/?font=Inter&color=3A9CDF&size=30&weight=700&lines=Gabriel+Souza;)
-## 🎓 I'm Gabriel Souza Web Design & Developer!
+## 🎓 I'm Web Design & Developer!
 -----------------------------------------------
 <p> I'm 20 years old, I was born in Campina Grande - PB and I currently work in the customer service area at Necxt Orbitall. Since I was a child, I have always had a nostalgia and passion for technology, and my dream has always been to pursue a career in this field. At the moment, I am in the process of career transition and started my higher education course in Systems Analysis and Development. My goal is to become a full stack developer and I've already started my journey as a front-end dev and I'm committed to achieving that goal.</p>
-
 -----------------------------------------------
 - 🌍 I'm based in Campina Grande, Brazil
 - ✍ You can find my projects here [portfolio](https://gabrieldev071.github.io/portifolio/)
@@ -27,9 +26,9 @@
 </div>
 
 ### You can contact me at:
-<a href="https://www.linkedin.com/in/gabriel-albuquerque-souza-desenvolvedor/" target="_blank" >![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://github.com/gabrieldev071" target="_blank" >![GITHUB](https://img.shields.io/badge/github-212529.svg?style=for-the-badge&logo=github&logoColor=white)</a>
-<a href="https://www.instagram.com/gabriell.dat/" target="_blank" >![INSTAGRAM](https://img.shields.io/badge/instagram-D14836.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/gabriel-albuquerque-souza-desenvolvedor/" target="_blank" >![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://github.com/gabrieldev071" target="_blank" >![github](https://img.shields.io/badge/github-212529.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://www.instagram.com/gabriell.dat/" target="_blank" >![instagram](https://img.shields.io/badge/instagram-D14836.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
 ### Languages and Tools:
 
 <p align="left"> 
@@ -42,9 +41,6 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
-
-<br />
-<br />
 
 ## Gabriel Souza favorite tools and technologies ⚙️
 
@@ -83,17 +79,17 @@
 <tr>
     <td align="center" width="96">
       <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
-       <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>Github
     </td>
     <td align="center"  width="96">
       <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       </a>
       <br>VS Code
     </td>
@@ -105,18 +101,32 @@
 
 </table>
 
-## ![Top Languages by Repostory](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrieldev071&theme=github_dark)
+## :trophy: Languages and Commit in GitHub:
 
+![Top Languages by Repostory](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrieldev071&theme=github_dark) ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrieldev071&theme=github_dark)
 
-## :trophy:Github Stats:
+## :trophy: Github Stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieldev071&theme=github_dark)
+![gabrieldev071](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieldev071&theme=github_dark)
 
+<h2> align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes: </h2>
 
-<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: Gabriel Souza Visitor's Count" /></p>
+<p align="center">
+    
+<a href="https://github.com/gabrieldev071/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=gabrieldev071">
+</a>
+    <a href="https://github.com/gabrieldev071?tab=followers">
+        <img src="https://img.shields.io/github/followers/gabrieldev071?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: gabrieldev071 Visitor's Count" />
+</p> 
 
 [linkedin]: https://www.linkedin.com/in/gabriel-albuquerque-souza-desenvolvedor/
-[twitter]: https://www.whitter.com/JubayerRiyad/
+[twitter]: https://www.whitter.com/gabrieldev071/
 [instagram]: https://www.instagram.com/gabriell.dat/
 [github]: https://github.com/Gabrieldev071
+[discord]:
 
