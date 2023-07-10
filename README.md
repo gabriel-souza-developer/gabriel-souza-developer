@@ -100,9 +100,6 @@
       </td>
    </tr>
 </table>
-<br><br>
-
-<h2 align="left">Languages and Commit in GitHub: </h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrieldev071&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrieldev071&theme=github_dark)
 
