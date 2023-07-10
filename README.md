@@ -2,7 +2,9 @@
 ![Gabriel Souza](https://readme-typing-svg.herokuapp.com/?font=Inter&color=3A9CDF&size=30&weight=700&lines=Gabriel+Souza;)
 ## 🎓 I'm Web Design & Developer!
 -----------------------------------------------
+
 <p> I'm 20 years old, I was born in Campina Grande - PB and I currently work in the customer service area at Necxt Orbitall. Since I was a child, I have always had a nostalgia and passion for technology, and my dream has always been to pursue a career in this field. At the moment, I am in the process of career transition and started my higher education course in Systems Analysis and Development. My goal is to become a full stack developer and I've already started my journey as a front-end dev and I'm committed to achieving that goal.</p>
+
 -----------------------------------------------
 - 🌍 I'm based in Campina Grande, Brazil
 - ✍ You can find my projects here [portfolio](https://gabrieldev071.github.io/portifolio/)
