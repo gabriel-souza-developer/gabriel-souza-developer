@@ -18,25 +18,25 @@
 - ⚡ Fun fact: I love camping, adventure and nature
 
 ## Skills:
------------------------------------------------
+
 - HTML, CSS, SASS, JavaScript, React and Bootstrap
 - Node JS
 - MySQL
-  
+-----------------------------------------------  
 <!---(<div>
 <img src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif" align="center" width="100%">
 </div>) -->
 
 ##  You can contact me at:
------------------------------------------------
 <a href="https://www.linkedin.com/in/gabriel-albuquerque-souza-desenvolvedor/" target="_blank" >![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://github.com/gabrieldev071" target="_blank" >![github](https://img.shields.io/badge/github-212529.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://discord.com/users/239197225287286785" target="_blank" >![discord](https://img.shields.io/badge/discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="https://www.instagram.com/gabriell.dat/" target="_blank" >![instagram](https://img.shields.io/badge/instagram-833AB4.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="mailto:contato_gabriel_albuquerque@hotmail.com" target="_blank" >![gmail](https://img.shields.io/badge/GMAIL-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-##  Languages and Tools:
 -----------------------------------------------
+##  Languages and Tools:
+
 <p align="left"> 
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -47,7 +47,7 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
-
+-----------------------------------------------
 ##  My favorite tools and technologies:
 > Tools and technologies that I have worked with and am interested in
 
@@ -104,7 +104,7 @@
    </tr>
   </table> 
 </tbody>
-
+-----------------------------------------------
 <h2 align="left"> :trophy: Languages and Commit in GitHub: </h2>
 
 <div align="center">
