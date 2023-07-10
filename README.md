@@ -50,55 +50,57 @@
 > Tools and technologies that I have worked with and am interested in
 
 <tbody align="">
-<tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center"  width="96">
-        <a href="https://reactjs.org/" target="_blank"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-      <br>React js
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
-</tr>
-<tr>
-    <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>Github
-    </td>
-    <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      </a>
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-        <br>MySQL
-    </td>
- </tr>
+  <table> 
+  <tr>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <br>Javascript
+      </td>
+      <td align="center"  width="96">
+          <a href="https://reactjs.org/" target="_blank"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+        <br>React js
+      </td>
+      <td align="center"  width="96">
+          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <br>CSS
+      </td>
+      <td align="center"  width="96">
+          <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <br>Bootstrap
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+        <br>JQuery
+      </td>
+  </tr>
+  <tr>
+      <td align="center" width="96">
+        <a href="#git" >
+          <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        </a>
+        <br>Git
+      </td>
+      <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        <br>Github
+      </td>
+      <td align="center"  width="96">
+        <a href="#vscode">
+          <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+        </a>
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+          <br>MySQL
+      </td>
+   </tr>
+  </table> 
 </tbody>
 
 <h2 align="left"> :trophy: Languages and Commit in GitHub: </h2>
