@@ -112,7 +112,9 @@
 
 ## ✍ Github Stats:
 
-<div align="center">![gabrieldev071](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieldev071&theme=github_dark)</div> 
+<div align="center">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieldev071&theme=github_dark"> 
+</div> 
 
 <h2 align="center" ><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes: </h2>
 
