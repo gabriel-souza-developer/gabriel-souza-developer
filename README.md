@@ -106,13 +106,13 @@
   </table> 
 </tbody>
 
-<h2 align="center"> :trophy: Languages and Commit in GitHub: </h2>
+<h2 align="left"> :trophy: Languages and Commit in GitHub: </h2>
 
 ![Top Languages by Repostory](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrieldev071&theme=github_dark) ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrieldev071&theme=github_dark)
 
 ## ✍ Github Stats:
 
-![gabrieldev071](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieldev071&theme=github_dark)
+<div text-align="center">![gabrieldev071](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieldev071&theme=github_dark)</div> 
 
 <h2 align="center" ><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes: </h2>
 
