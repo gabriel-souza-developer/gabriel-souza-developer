@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I love camping, adventure and nature
 
 ## Skills:
-
+-----------------------------------------------
 - HTML, CSS, SASS, JavaScript, React and Bootstrap
 - Node JS
 - MySQL
@@ -48,8 +48,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
-##  My favorite tools and technologies 
------------------------------------------------
+##  My favorite tools and technologies:
 > Tools and technologies that I have worked with and am interested in
 
 <tbody align="">
