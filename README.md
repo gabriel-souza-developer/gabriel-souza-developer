@@ -101,10 +101,9 @@
         <br>MySQL
     </td>
  </tr>
-
 </table>
 
-## :trophy: Languages and Commit in GitHub:
+<h2 align="left"> :trophy: Languages and Commit in GitHub: </h2>
 
 ![Top Languages by Repostory](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrieldev071&theme=github_dark) ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrieldev071&theme=github_dark)
 
