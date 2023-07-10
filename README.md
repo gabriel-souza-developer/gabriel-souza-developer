@@ -42,10 +42,10 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
 ##  My favorite tools and technologies 
@@ -76,10 +76,6 @@
           <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
         <br>Bootstrap
       </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-        <br>JQuery
-      </td>
   </tr>
   <tr>
       <td align="center" width="96">
@@ -102,11 +98,15 @@
           <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
           <br>MySQL
       </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+        <br>JQuery
+      </td> 
    </tr>
   </table> 
 </tbody>
 
-<h2 align="left"> :trophy: Languages and Commit in GitHub: </h2>
+<h2 align="center"> :trophy: Languages and Commit in GitHub: </h2>
 
 ![Top Languages by Repostory](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrieldev071&theme=github_dark) ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrieldev071&theme=github_dark)
 
