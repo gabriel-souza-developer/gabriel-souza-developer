@@ -42,7 +42,7 @@
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
 
-## Gabriel Souza favorite tools and technologies ⚙️
+## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -128,5 +128,6 @@
 [twitter]: https://www.whitter.com/gabrieldev071/
 [instagram]: https://www.instagram.com/gabriell.dat/
 [github]: https://github.com/Gabrieldev071
-[discord]:
+[discord]: https://discord.com/users/239197225287286785
+[portfolio]: https://gabrieldev071.github.io/portifolio/
 
