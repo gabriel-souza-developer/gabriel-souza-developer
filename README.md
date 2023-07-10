@@ -47,7 +47,7 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
------------------------------------------------
+
 ##  My favorite tools and technologies:
 > Tools and technologies that I have worked with and am interested in
 
@@ -104,7 +104,7 @@
    </tr>
   </table> 
 </tbody>
------------------------------------------------
+
 <h2 align="left"> :trophy: Languages and Commit in GitHub: </h2>
 
 <div align="center">
