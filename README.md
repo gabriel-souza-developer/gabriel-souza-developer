@@ -99,7 +99,7 @@
 
 ##  You can contact me at:
 <a href="https://www.linkedin.com/in/gabriel-albuquerque-souza-desenvolvedor/" target="_blank" >![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://github.com/gabrieldev071" target="_blank" >![github](https://img.shields.io/badge/github-212529.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://github.com/gabriel-souza-developer" target="_blank" >![github](https://img.shields.io/badge/github-212529.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://discord.com/users/239197225287286785" target="_blank" >![discord](https://img.shields.io/badge/discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="https://www.instagram.com/gabriell.dat/" target="_blank" >![instagram](https://img.shields.io/badge/instagram-833AB4.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="mailto:contato_gabriel_albuquerque@hotmail.com" target="_blank" >![gmail](https://img.shields.io/badge/GMAIL-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)</a>
@@ -108,36 +108,36 @@
 <h2 align="left"> :trophy: Languages and Commit in GitHub: </h2>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrieldev071&theme=github_dark"> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrieldev071&theme=github_dark"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabriel-souza-developer&theme=github_dark"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriel-souza-developer&theme=github_dark"> 
 </div> 
 
 ## ✍ Github Stats:
 
 <div align="center">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieldev071&theme=github_dark"> 
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriel-souza-developer&theme=github_dark"> 
 </div> 
 
 <h2 align="center" ><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes: </h2>
 
 <p align="center">
     
-<a href="https://github.com/gabrieldev071/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=gabrieldev071">
+<a href="https://github.com/gabriel-souza-developer/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=gabriel-souza-developer">
 </a>
-    <a href="https://github.com/gabrieldev071?tab=followers">
-        <img src="https://img.shields.io/github/followers/gabrieldev071?label=Followers&style=social" alt="GitHub Badge">
+    <a href="https://github.com/gabriel-souza-developer?tab=followers">
+        <img src="https://img.shields.io/github/followers/gabriel-souza-developer?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
 
-<p align="center"> <img src="https://profile-counter.glitch.me/gabrieldev071/count.svg"  alt="roland :: gabrieldev071 Visitor's Count" />
+<p align="center"> <img src="https://profile-counter.glitch.me/gabriel-souza-developer/count.svg"  alt="roland :: gabriel-souza-developer Visitor's Count" />
 </p> 
 
 [linkedin]: https://www.linkedin.com/in/gabriel-albuquerque-souza-desenvolvedor/
-[twitter]: https://www.whitter.com/gabrieldev071/
+[twitter]: https://www.whitter.com/gabriel-souza-developer/
 [instagram]: https://www.instagram.com/gabriell.dat/
-[github]: https://github.com/Gabrieldev071
+[github]: https://github.com/gabriel-souza-developer
 [discord]: https://discord.com/users/239197225287286785
-[portfolio]: https://gabrieldev071.github.io/portifolio/
+[portfolio]: https://gabriel-souza-developer.github.io/portifolio/
 [gmail]: mailto:contato_gabriel_albuquerque@hotmail.com
 
