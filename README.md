@@ -2,7 +2,6 @@
 ![Gabriel Souza](https://readme-typing-svg.herokuapp.com/?font=Inter&color=3A9CDF&size=30&weight=700&lines=Gabriel+Souza;)
 ## 🎓 I'm Technical Support Analyst!
 -----------------------------------------------
-
 <p> I am an Information Technology professional with extensive experience in technical support, network monitoring, and IT infrastructure. I currently work as a Network and IT Back Office Specialist at Proxxima Telecom, where I work with tools such as Zabbix, Grafana, ERP systems, and network equipment (OLTs, ONUs/ONTs, switches, and routers). I have extensive experience in incident analysis, troubleshooting, and process automation to ensure high availability and infrastructure performance.
 
 I have a degree in Systems Analysis and Development from Maurício de Nassau College and have had significant experience at institutions such as INSS, Necxt Orbitall, and Casa Galiotto.</p>
