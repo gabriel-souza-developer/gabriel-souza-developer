@@ -1,16 +1,17 @@
 # Hi 👋 My name is 
 ![Gabriel Souza](https://readme-typing-svg.herokuapp.com/?font=Inter&color=3A9CDF&size=30&weight=700&lines=Gabriel+Souza;)
-## 🎓 I'm Web Design & Developer!
+## 🎓 I'm Technical Support Analyst!
 -----------------------------------------------
 
-<p> I'm 20 years old, I was born in Campina Grande - PB and I currently work in the customer service area at Necxt Orbitall. Since I was a child, I have always had a nostalgia and passion for technology, and my dream has always been to pursue a career in this field. At the moment, I am in the process of career transition and started my higher education course in Systems Analysis and Development. My goal is to become a full stack developer and I've already started my journey as a front-end dev and I'm committed to achieving that goal.</p>
+<p> I am an Information Technology professional with extensive experience in technical support, network monitoring, and IT infrastructure. I currently work as a Network and IT Back Office Specialist at Proxxima Telecom, where I work with tools such as Zabbix, Grafana, ERP systems, and network equipment (OLTs, ONUs/ONTs, switches, and routers). I have extensive experience in incident analysis, troubleshooting, and process automation to ensure high availability and infrastructure performance.
+
+I have a degree in Systems Analysis and Development from Maurício de Nassau College and have had significant experience at institutions such as INSS, Necxt Orbitall, and Casa Galiotto.</p>
 
 -----------------------------------------------
 - 🌍 I'm based in Campina Grande, Brazil
 - ✍ You can find my projects here [portfolio]
 - 🧠 I'm learning Advanced Javascript, React, CSS, SASS, HTML, Bootstrap, GIT and MySQL.
-- 🎓 I'm studying Systems Analysis and Development
-- 🔭 I’m currently ooking for my first opportunity
+- 🎓 I have a degree in Systems Analysis and Development
 - 👯 I'm open to collaborating on projects that have a high impact in peoples lives
 - 💬 Ask me about ... Anything
 - ✉️ You can contact me at [contato_gabriel_albuquerque@hotmail.com](mailto:contato_gabriel_albuquerque@hotmail.com)
@@ -20,7 +21,6 @@
 ## Skills:
 
 - HTML, CSS, SASS, JavaScript, React and Bootstrap
-- Node JS
 - MySQL
 -----------------------------------------------  
 <!---(<div>
@@ -133,7 +133,7 @@
 <p align="center"> <img src="https://profile-counter.glitch.me/gabriel-souza-developer/count.svg"  alt="roland :: gabriel-souza-developer Visitor's Count" />
 </p> 
 
-[linkedin]: https://www.linkedin.com/in/gabriel-albuquerque-souza-desenvolvedor/
+[linkedin]: https://www.linkedin.com/in/gabriel-albuquerque-souza/
 [twitter]: https://www.whitter.com/gabriel-souza-developer/
 [instagram]: https://www.instagram.com/gabriell.dat/
 [github]: https://github.com/gabriel-souza-developer
